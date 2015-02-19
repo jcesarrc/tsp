@@ -1,0 +1,1 @@
+INSERT INTO customer (email, name, lastname, birth_day, birth_month, birth_year, country, city, state, address, po, telephone, imei, credit_card_franchise, credit_card_number, exp_month, exp_year, cvc) VALUES ('jh@fgg.com', 'hhh', 'uyyy', '5', '9', '1990', '', '', '', 'rer', '1122', '11124', '353111063194169', 'MC', '87063333313132', '05', '2015', '123')
